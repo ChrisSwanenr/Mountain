@@ -1,3 +1,8 @@
+body {
+  width: 73%;
+  margin:0 auto;
+  background: rgba(204, 204, 204, 0.0)
+}
 h1 {
   text-align: center;
 }
@@ -6,7 +11,12 @@ h2 {
 }
 body {
   padding: 5px;
+  height: 800px;
 }
 p {
   padding: 5px;
+}
+html {
+  background: url(https://media.giphy.com/media/q0YjVPeiOdoK4/giphy.gif)no-repeat center center fixed;
+  background-size: cover;
 }
